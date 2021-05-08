@@ -6,3 +6,14 @@ A simple project using Angular and the Angular Google Charts library with the ai
 
 # Running the project
 
+Execute the following command:
+
+```
+npm  i
+```
+
+And then:
+
+```
+ng serve
+```
